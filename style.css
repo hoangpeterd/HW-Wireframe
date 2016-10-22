@@ -1,5 +1,6 @@
 /*Body Element*/
 body {
+	margin: auto;
 	box-sizing: border-box;
 	text-align: center;
 	background-color: #777;
